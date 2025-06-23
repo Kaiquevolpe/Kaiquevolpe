@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Olá, meu nome é Kaique Volpe. Este é meu perfil, onde compartilho meus projetos pessoais, acadêmicos e profissionais.<br><br>- 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas na [Sptech](https://www.sptech.school/)
+<p align="left">Olá, meu nome é Kaique Volpe. Este é meu perfil, onde compartilho meus projetos pessoais, acadêmicos e profissionais.<br><br>- 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas na Sptech
 <br><br>- 💡 Apreciador do Front-end<br><br>- ⚡Atualmente me especializando em React e desenvolvendo projetos práticos para aprofundar meus conhecimentos na biblioteca.</p>
 
 ###
